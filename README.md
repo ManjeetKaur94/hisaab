@@ -1,7 +1,7 @@
 # Hisaab — split bills, stay friends
 
 A working prototype of a "Split the Bill" tool for the Indian market, built as a single-file
-web app. Live demo: (add your GitHub Pages URL here)
+web app. Live demo:https://github.com/ManjeetKaur94/hisaab.git
 
 **The reframe:** the brief asked for a tool to "figure out who owes whom." In India, the hard
 part isn't the arithmetic — it's the *settling*. UPI is universal, WhatsApp is where plans
